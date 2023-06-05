@@ -22,3 +22,5 @@ def renderIndexPage():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
+    
+[Implemented Endpoints](https://github.com/GopikaJose/xzceb-flask_eng_fr/blob/master/final_project/server.py)
